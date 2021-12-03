@@ -2,7 +2,7 @@
 <img src="https://i.ibb.co/ZNsDKDx/2515.jpg" width="200" height="200"/>
 </p>
 <h1 align='center'>WELCOME</h1>
-<p align='center'>To Github, I'm Ari</p>
+<p align='center'>Hai, I'm Ari</p>
 <p align='center'>
 </p>
  
