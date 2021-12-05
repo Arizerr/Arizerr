@@ -35,7 +35,6 @@ Join My Group
 ### Github Stats 🚀
 
 <p align="center"><a href="https://github.com/AriGans"><img src="https://github-readme-stats.vercel.app/api?username=AriGans&show_icons=true&theme=radical"></a></p>
-<p align="center"><a href="https://github.com/AriGans"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AriGans&theme=radical&layout=compact"></a></p> 
 
 
 <details>
