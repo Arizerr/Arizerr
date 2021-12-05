@@ -11,14 +11,13 @@ Asal Sulawesi Selatan
 </p>
 
 ------
-### Connect with me
 </p>
-<h3 align="left">Contact with me</h3>
+<h3 align="left">Connect with me</h3>
 <p align="left"><a href="https://instagram.com/my.siraj" target="blank"><img align="center" src="https://storage.caliph71.xyz/img/instagram.svg" height="30" width="30" /></a> Instagram
 <p align="left"><a href="https://Wa.me/6285796430430" target="blank"><img align="center" src="https://storage.caliph71.xyz/img/whatsapp.svg" height="30" width="30" /></a> WhatsApp
 </p>
 
-### Join My Group
+Join My Group
 
 [![Grup WhatsApp](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/FLuvwjV0Y5r4DFqrg8u2o9)
 </p>
