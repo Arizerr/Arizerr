@@ -5,8 +5,8 @@
 
 <p align="center">
 
-Hai, Saya Ari
-Asal Sulawesi Selatan
+- Hai, Saya Ari
+- Asal Sulawesi Selatan
 
 </p>
 
