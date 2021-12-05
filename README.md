@@ -1,23 +1,54 @@
+<h1 align="center">WELCOME <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt=""><br></h1>
 <p align="center">
-<img src="https://i.ibb.co/ZNsDKDx/2515.jpg" width="200" height="200"/>
+  <img src="https://i.ibb.co/ZNsDKDx/2515.jpg" />
 </p>
-<h1 align='center'>WELCOME</h1>
-<p align='center'>Hai, I'm Ari</p>
-<p align='center'>
+
+<p align="center">
+
+Hai, Saya Ari
+Asal Sulawesi Selatan
+
 </p>
- 
- <p align="center">
- <img src="https://komarev.com/ghpvc/?username=AriGans&color=blue&label=Profile Views" />
- </p>
+
+------
+### Connect with me
+</p>
 <h3 align="left">Contact with me</h3>
 <p align="left"><a href="https://instagram.com/my.siraj" target="blank"><img align="center" src="https://storage.caliph71.xyz/img/instagram.svg" height="30" width="30" /></a> Instagram
 <p align="left"><a href="https://Wa.me/6285796430430" target="blank"><img align="center" src="https://storage.caliph71.xyz/img/whatsapp.svg" height="30" width="30" /></a> WhatsApp
 </p>
-Join My Group
+
+### Join My Group
 
 [![Grup WhatsApp](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/FLuvwjV0Y5r4DFqrg8u2o9)
 </p>
 
-<h3 align="left">Github Stats</h3>
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=AriGans&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true&include_all_commits=true&icon_color=fff&hide_border=false&show_icons=falze" /></a>
+------
+
+### Spotify Playing 🎧
+
+<p align="center">
+  <a href="https://open.spotify.com/user/hbv7yzic965h9y82w194av0cz" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
+</p>
+
+------
+
+### Github Stats 🚀
+
+<p align="center"><a href="https://github.com/AriGans"><img src="https://github-readme-stats.vercel.app/api?username=AriGans&show_icons=true&theme=radical"></a></p>
+<p align="center"><a href="https://github.com/AriGans"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AriGans&theme=radical&layout=compact"></a></p> 
+
+
+<details>
+    <summary>&#127942 <b>GitHub Awards</b></summary><br/>
+
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=phaticusthiccy)
+
+</details>
+
+<details>
+    <summary>&#127942 <b>GitHub Activity</b></summary><br/>
+
+![Metrics](https://metrics.lecoq.io/zeeoneofc?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FMakassar)
+
+</details> 
