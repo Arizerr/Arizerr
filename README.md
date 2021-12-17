@@ -5,8 +5,8 @@
 
 <p align="center">
 
-- Hai, Saya Ari
-- Asal Sulawesi Selatan
+- Hi, My Name Is Ari
+- I am From South Sulawesi
 
 </p>
 
