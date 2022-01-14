@@ -36,7 +36,7 @@
 
 ### Github Stats 🚀
 
-<p align="center"><a href="https://github.com/AriGans"><img src="https://github-readme-stats.vercel.app/api?username=AriGans&show_icons=true&theme=radical"></a></p>
+<p align="center"><a href="https://github.com/AriBhizer"><img src="https://github-readme-stats.vercel.app/api?username=AriBhizer&show_icons=true&theme=radical"></a></p>
 
 
 <details>
