@@ -35,3 +35,13 @@
 
 <p align="center"><a href="https://github.com/AriBhizer"><img src="https://github-readme-stats.vercel.app/api?username=AriBhizer&show_icons=true&theme=radical"></a></p>
     
+------
+
+### Dino 🦖
+![Dino](https://github.com/sourabmaity/sourabmaity/blob/main/dino.gif)
+
+  <div align=center>
+        <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="100">
+        <p>Loading</p>
+
+Credit: [Ari](https://github.com/AriBhizer)
