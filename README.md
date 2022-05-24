@@ -34,7 +34,4 @@
 ### Github Stats 🚀
 
 <p align="center"><a href="https://github.com/AriBhizer"><img src="https://github-readme-stats.vercel.app/api?username=AriBhizer&show_icons=true&theme=radical"></a></p>
-
-
-<details>
     
