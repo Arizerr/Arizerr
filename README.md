@@ -1,4 +1,4 @@
-### WELCOME
+<h1 align="center">WELCOME
 <p align="center">
   <img src="https://telegra.ph/file/1a0f2f7da743765a8310b.jpg" />
 </p>
