@@ -13,16 +13,6 @@
 <p align="left"><a href="https://instagram.com/muhys_" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" height="30" width="30" /></a> Instagram
 </p>
 
-------
-
-### Join My Group
-
-[![Grup WhatsApp](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://bit.ly/RiiBott)
-
-[![Grup Telegram](https://img.shields.io/badge/Telegram%20Group-32A6E1?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/RiiBott)
-
-[![Server Discord](https://img.shields.io/badge/Discord%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/2yejsazhnQ)
-</p>
 
 ------
 
