@@ -11,7 +11,6 @@
 </p>
 <h3 align="left">Connect with me</h3>
 <p align="left"><a href="https://instagram.com/muhys_" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" height="30" width="30" /></a> Instagram
-<p align="left"><a href="https://Wa.me/6285796430430" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/WhatsApp_logo-color-vertical.svg" height="30" width="30" /></a> WhatsApp
 </p>
 
 ------
