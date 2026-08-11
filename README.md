@@ -20,10 +20,10 @@
 ### 📊 GitHub Stats
 <p align="center">
   <!-- Menggunakan alternative endpoint untuk menghindari error 503 / down -->
-  <img src="https://github-stats-extended.vercel.app/api?username=muhys&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Arizerr&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhys&theme=radical&hide_border=true&background=0d1117" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arizerr&theme=radical&hide_border=true&background=0d1117" alt="GitHub Streak" />
 </p>
 
 ---
@@ -37,7 +37,7 @@
 
 ### 🌐 Connect with Me
 <p align="left">
-  <a href="https://instagram.com/muhys_" target="_blank" rel="noopener noreferrer">
+  <a href="https://instagram.com/muhmmdysf_" target="_blank" rel="noopener noreferrer">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" height="25" width="25" alt="Instagram Logo" />
     <strong>Instagram</strong>
   </a>
