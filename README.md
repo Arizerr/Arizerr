@@ -1,13 +1,10 @@
-<h1 align="center">WELCOME
-<p align="center">
-  <img src="https://telegra.ph/file/1a0f2f7da743765a8310b.jpg" />
-</p>
+<h1 align="center">WELCOME</h1>
 
 <p align="center">
-
+  <img src="https://telegra.ph/file/1a0f2f7da743765a8310b.jpg" alt="Welcome Image" />
 </p>
 
-------
+---
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
@@ -16,12 +13,15 @@
   </a> 
   Instagram
 </p>
-    
-------
+
+---
 
 ### Dino 🦖
-![Dino](https://github.com/sourabmaity/sourabmaity/blob/main/dino.gif)
+<p align="left">
+  <img src="https://github.com/sourabmaity/sourabmaity/blob/main/dino.gif" alt="Dino" />
+</p>
 
-  <div align=center>
-        <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="100">
-        <p>Loading</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="100" />
+  <p>Loading...</p>
+</div>
