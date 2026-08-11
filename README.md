@@ -10,8 +10,8 @@
 <p align="left">
   <a href="https://instagram.com/muhys_" target="_blank" rel="noopener noreferrer">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" height="30" width="30" alt="Instagram Logo" />
-  </a> 
-  Instagram
+    Instagram
+  </a>
 </p>
 
 ---
