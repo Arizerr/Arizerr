@@ -34,14 +34,6 @@
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Arizerr&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" alt="Top Languages" height="165"/>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Arizerr&theme=radical&hide_border=true&background=0d1117" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Arizerr&theme=radical&no-frame=true&column=7&margin-w=8&margin-h=8" alt="GitHub Trophies" />
-</p>
-
 ---
 
 ### 📈 Contribution Graph
