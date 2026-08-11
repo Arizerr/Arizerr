@@ -30,12 +30,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arizerr&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arizerr&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" alt="Top Languages" height="165"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=Arizerr&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Arizerr&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" alt="Top Languages" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arizerr&theme=radical&hide_border=true&background=0d1117" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Arizerr&theme=radical&hide_border=true&background=0d1117" alt="GitHub Streak" />
 </p>
 
 <p align="center">
